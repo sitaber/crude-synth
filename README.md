@@ -40,7 +40,7 @@ Dependencies:
 Once the dependable are met, simply run `app.py` from within the `crudesynth` directory.
 
 ### Controls
-All controls are mouse clickalbe. To play the synth use your computer keyboard: a,w,s,e,d,f,t,g,y,h,u map to the piano keys as follows:
+All controls are mouse clickalbe. To play the synth use your computer keyboard: a,w,s,e,d,f,t,g,y,h,u,j map to the piano keys as follows:
 ```
     |  |w| |e|  |  |t| |y| |u|  |
     |a |_|s|_|d |f |_|g|_|h|_|j |
