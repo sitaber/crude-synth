@@ -40,14 +40,16 @@ Dependencies:
 Once the dependable are met, simply run `app.py` from within the `crudesynth` directory.
 
 ### Controls
-All controls are mouse clickalbe. To play the synth use your computer keyboard: a,w,s,e,d,f,t,g,y,h,u,j map to the piano keys as follows:
+All controls are mouse clickalbe. To play the synth use your computer keyboard: a,w,s,e,d,f,t,g,y,h,u,j 
+
+These map to the piano keys as follows:
 ```
     |  |w| |e|  |  |t| |y| |u|  |
     |a |_|s|_|d |f |_|g|_|h|_|j |
     |___|___|___|___|___|___|___|
 ```
 
-Only one octave is playable at a time, but can the octave can be switch using the up and down arrows on your keyboard. There is one notable bug, I mean feature, where if a key is held down and the octave switched, the key will remain down and sustaining. This may actuall provide a way to make some crazy sounds!
+Only one octave is playable at a time, but the octave can be switched using the up and down arrows on your keyboard. There is one notable bug, I mean feature, where if a key is held down and the octave switched, the key will remain down and sustaining. This may actuall provide a way to make some crazy sounds!
 
 
 Enjoy!!
